@@ -1,0 +1,6 @@
+name: MineIRC
+version: '${project.version}'
+main: github.poptartfrompluto.mineirc.MineIRC
+api-version: 1.19
+authors: [ Grovre, PoptartFromPluto ]
+website: https://github.com/Grovre
